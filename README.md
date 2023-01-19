@@ -1,2 +1,2 @@
 # teachers-v.s-student
-Click here to begin
+Click [here](alarm.md) to begin
