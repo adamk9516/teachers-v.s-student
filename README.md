@@ -1,1 +1,1 @@
-# teachers-v.s-studentgit 
+# teachers-v.s-student
