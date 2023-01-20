@@ -1,4 +1,4 @@
 # Make your story
 
-## [yell at teacher](dean.md)
-## [hit teacher](expelled.md)
+## [Yell at teacher](deans.md)
+## [Hit teacher](expelled.md)
