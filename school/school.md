@@ -1,4 +1,4 @@
 # Make your story
 
-## [Go to class](class.md)
-## [Skip class](hallway.md)
+## [Go To Class](class.md)
+## [Skip Class](hallway.md)

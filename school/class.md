@@ -1,4 +1,4 @@
 # Make your story
 
 ## [Sleep](detention.md)
-## [Do your work](../alarm.md)
+## [Do Your Work](../alarm.md)
