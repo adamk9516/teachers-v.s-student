@@ -1,3 +1,4 @@
 # Make your story
 
-## [Home](../alarm.md)
+## [Yell At Teacher](deans.md)
+## [Hit Teacher](expelled.md)
