@@ -1,5 +1,5 @@
                           -+-+
-                          .0303# teachers-v.s-student
+                          .0303 # teachers-v.s-student
 
 ## The purpose of this project is to learn to collaborate with my peers by linking files and working to resolve merge conflicts or not get them at all.
 
